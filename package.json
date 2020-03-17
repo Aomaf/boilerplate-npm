@@ -1,5 +1,5 @@
 {
-	"name": "Aomaf",
+	"name": "fcc-learn-npm-package-json",
         "author": "Aoamf",
 	"dependencies": {
 		"express": "^4.14.0"
