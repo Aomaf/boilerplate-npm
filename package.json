@@ -1,5 +1,6 @@
 {
 	"name": "Aomaf",
+        "author": "Aoamf",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
